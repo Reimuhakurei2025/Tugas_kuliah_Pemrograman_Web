@@ -1,12 +1,15 @@
-<HTML>
+<!DOCTYPE html>
+<html lang="en">
 
-<HEAD>
-    <TITLE> Contoh Hyperlink </TITLE>
-</HEAD>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contoh Hyperlink</title>
+</head>
 
-<BODY>
+<body>
     <pre>
-<?php include 'Navbar.php';?>
+<?php include 'Navbar.php'; ?>
 <font size=3>Assalammualaikum.Wr.Wb.
 Apakabar semua. Salam kenal ini adalah web perdanaku. Web ini berisi informasi
 tentang kegemaranku. <br> Semoga web ini dapat menginspirasi Anda pada
@@ -15,6 +18,6 @@ Silakan hubungi saya jika ada yang ingin didiskusikan <a
 href="mailto:zakkyananda20@gmail.com">email</a>
 </font>
     </pre>
-</BODY>
+</body>
 
-</HTML>
+</html>
