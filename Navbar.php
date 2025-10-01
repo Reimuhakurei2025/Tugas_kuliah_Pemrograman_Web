@@ -1,5 +1,0 @@
-    <hr color="blue" size=3 width=50% align="left">
-    <font size=4 color="red">
-        <a href="index.php">Home</a> | <a href="profil.php">Profil</a> | <a href="about.php">About</a> | <a href="galery.php">Gallery</a> | <a href="kontak.php">Kontak</a>
-    </font>
-    <hr color="blue" size=3 width=50% align="left">
